@@ -13,3 +13,4 @@ for i in range(1,input_a):
         else:
             print('$',end=' ')
     print()
+    
