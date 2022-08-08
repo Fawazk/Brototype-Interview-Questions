@@ -6,11 +6,10 @@ for i in range(1,input_a):
         for k in range(i):
             print('*',end=' ')
         print()
-    print()
+    # print()
     for j in range(a):
         if (j % 2 == 0):
             print('*',end=' ')
         else:
             print('$',end=' ')
     print()
-    
