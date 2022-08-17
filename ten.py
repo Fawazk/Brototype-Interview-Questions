@@ -21,7 +21,3 @@ for i in range(n):
                 print('^*',end=' ')
         a = a-1
         print()
-
-            
-    
-
